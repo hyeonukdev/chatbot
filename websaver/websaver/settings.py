@@ -25,7 +25,7 @@ SECRET_KEY = "tfn@k#x)30=de-a%t4m8r!utb6e#-)ezgth#+=((4b8qppd3+o"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["http://222.118.92.251"]
 
 
 # Application definition
